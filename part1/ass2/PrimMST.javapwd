@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en">
+
+<head>
+
+<link rel="icon"          href="http://algs4.cs.princeton.edu/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://algs4.cs.princeton.edu/favicon.ico" type="image/x-icon">
+<link rel="stylesheet"    href="http://algs4.cs.princeton.edu/algs4.css"   type="text/css" media="screen">
+<meta name="google-site-verification" content="nYspbl5bNBQrNZKguiAAFTMVM7sq2P1WQYc8Oi6Okl0" />
+<meta name="msvalidate.01" content="D4B7F6DF793EFF34DE96F611C2A367A5" />
+
+<!-- IE HACKS -->
+<!--[if IE]>
+<style type="text/css" media="screen">
+ #menu ul li {float: left; width: 100%;}
+</style>
+<![endif]-->
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+body {
+behavior: url(/csshover.htc);
+} 
+#menu ul li {float: left; width: 100%;}
+#menu ul li a {height: 1%;} 
+
+#menu a, #menu h2 {
+font: bold 0.9em/1.5em arial, helvetica, sans-serif;
+} 
+
+</style>
+<![endif]-->
+
+
+
+<title>
+404 Error</title>
+
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+<META NAME="AUTHOR" CONTENT="Robert Sedgewick and Kevin Wayne">
+<META NAME="KEYWORDS" CONTENT="404 Error,Algorithms,4th edition,data structures,Java,intro,introduction,Sedgewick,Wayne">
+<META NAME="DESCRIPTION" CONTENT="The textbook Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne surveys the most important algorithms and data structures in use today. The broad perspective taken makes it an appropriate introduction to the field.">
+<META NAME="TITLE" CONTENT="404 Error. Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.">
+<META NAME="ROBOTS" CONTENT="INDEX,FOLLOW">
+
+<script type='text/javascript' src='/media/swfobject.js'></script>
+</head>
+
+
+<body>
+
+<div id = "menu">
+<div align="center">
+<a class = picture href = "http://algs4.cs.princeton.edu">
+<img src="http://algs4.cs.princeton.edu/cover.png" width=189 height=236 border=0 alt = "Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne">
+</a>  
+</div>
+
+
+
+
+
+<ul>
+  <li><a class = title href = "http://algs4.cs.princeton.edu">Algorithms, 4th edition</a>
+
+<ul>
+
+
+      <li> <a href = "/10fundamentals">1.&nbsp;&nbsp;Fundamentals</a>
+        <ul>
+          <li> <a href = "/11model">1.1&nbsp;&nbsp;Programming Model</a>
+          <li> <a href = "/12oop">1.2&nbsp;&nbsp;Data Abstraction</a>
+          <li> <a href = "/13stacks">1.3&nbsp;&nbsp;Stacks and Queues</a>
+          <li> <a href = "/14analysis">1.4&nbsp;&nbsp;Analysis of Algorithms</a>
+          <li> <a href = "/15uf">1.5&nbsp;&nbsp;Case Study: Union-Find</a>
+        </ul>
+
+      <li> <a href = "/20sorting">2.&nbsp;&nbsp;Sorting</a>
+        <ul>
+          <li> <a href = "/21elementary">2.1&nbsp;&nbsp;Elementary Sorts</a>
+          <li> <a href = "/22mergesort">2.2&nbsp;&nbsp;Mergesort</a>
+          <li> <a href = "/23quicksort">2.3&nbsp;&nbsp;Quicksort</a>
+          <li> <a href = "/24pq">2.4&nbsp;&nbsp;Priority Queues</a>
+          <li> <a href = "/25applications">2.5&nbsp;&nbsp;Sorting Applications</a>
+        </ul>
+
+      <li> <a href = "/30searching">3.&nbsp;&nbsp;Searching</a>
+        <ul>
+          <li> <a href = "/31elementary">3.1&nbsp;&nbsp;Symbol Tables</a>
+          <li> <a href = "/32bst">3.2&nbsp;&nbsp;Binary Search Trees</a>
+          <li> <a href = "/33balanced">3.3&nbsp;&nbsp;Balanced Search Trees</a>
+          <li> <a href = "/34hash">3.4&nbsp;&nbsp;Hash Tables</a>
+          <li> <a href = "/35applications">3.5&nbsp;&nbsp;Searching Applications</a>
+        </ul>
+
+      <li> <a href = "/40graphs">4.&nbsp;&nbsp;Graphs</a>
+        <ul>
+          <li> <a href = "/41undirected">4.1&nbsp;&nbsp;Undirected Graphs</a>
+          <li> <a href = "/42directed">4.2&nbsp;&nbsp;Directed Graphs</a>
+          <li> <a href = "/43mst">4.3&nbsp;&nbsp;Minimum Spanning Trees</a>
+          <li> <a href = "/44sp">4.4&nbsp;&nbsp;Shortest Paths</a>
+        </ul>
+
+      <li> <a href = "/50strings">5.&nbsp;&nbsp;Strings</a>
+        <ul>
+          <li> <a href = "/51radix">5.1&nbsp;&nbsp;String Sorts</a>
+          <li> <a href = "/52trie">5.2&nbsp;&nbsp;Tries</a>
+          <li> <a href = "/53substring">5.3&nbsp;&nbsp;Substring Search</a>
+          <li> <a href = "/54regexp">5.4&nbsp;&nbsp;Regular Expressions</a>
+          <li> <a href = "/55compression">5.5&nbsp;&nbsp;Data Compression</a>
+        </ul>
+
+      <li> <a href = "/60context">6.&nbsp;&nbsp;Context</a>
+        <ul>
+          <li> <a href = "/61event">6.1&nbsp;&nbsp;Event-Driven Simulation</a>
+          <li> <a href = "/62btrees">6.2&nbsp;&nbsp;B-trees</a>
+          <li> <a href = "/63suffix">6.3&nbsp;&nbsp;Suffix Arrays</a>
+          <li> <a href = "/64maxflow">6.4&nbsp;&nbsp;Maxflow</a>
+          <li> <a href = "/65reductions">6.5&nbsp;&nbsp;Reductions</a>
+          <li> <a href = "/66intractability">6.6&nbsp;&nbsp;Intractability</a>
+        </ul>
+    </ul>
+
+
+
+
+<li><a class = title> Related Booksites</a>
+<table width = 100% border = 0 cellspacing = 0 cellpadding = 0>
+<tr>
+<td align = center>
+<a class = booksite href = "http://introcs.cs.princeton.edu">
+   <img src = "http://introcs.cs.princeton.edu/java/cover.jpg"
+        width = 80 height = 108 border=0
+        alt = "Introduction to Programming in Java
+               by Robert Sedgewick and Kevin Wayne">
+</a>
+<td align = center>
+<a class = booksite href = "http://aofa.cs.princeton.edu">
+   <img src = "http://algs4.cs.princeton.edu/cover-analysis-of-algorithms.png"
+        width = 81 height = 108 border=0
+        alt = "An Introduction to the Analysis of Algorithms by Robert Sedgewick and Philippe Flajolet">
+</a>
+</tr>
+</table>
+
+<li><a class = title>Web Resources</a>
+
+
+      <li> <a href = "/faq">FAQ</a>
+      <li> <a href = "http://introcs.cs.princeton.edu/java/data">Data</a>
+      <li> <a href = "/code">Code</a>
+      <li> <a href = "/errata">Errata</a>
+      <li> <a href = "/references">References</a>
+      <li> <a href = "https://www.coursera.org/course/algs4partI">Online Course</a>
+      <li> <a href = "/lectures">Lecture Slides</a>
+      <li> <a href = "http://introcs.cs.princeton.edu/java/assignments">Programming Assignments</a>
+   </ul>
+
+</ul>
+
+<p><br>
+
+<script>
+  (function() {
+    var cx = '005649317310637734940:s7fqljvxwfs';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+
+<p><br>
+
+
+
+
+</div>
+
+
+<div id = "content">
+<H1>404 Error:&nbsp;Not Found</H1><p><br><br><b>http://algs4.cs.princeton.edu/43mst/PrimMST.javapwd</b>
+
+
+<p><br><br>
+
+<hr>
+
+<ADDRESS>Apache/2.2.15 (Red Hat) server at algs4.cs.princeton.edu</ADDRESS></BODY></HTML>
+
+
+
+<!--
+<hr>
+<center><a href=#GLOBALS>GLOBALS</a> | <a href=#_SERVER>_SERVER</a> | <a href=#_GET>_GET</a> | <a href=#_POST>_POST</a> | <a href=#_FILES>_FILES</a> | <a href=#_COOKIE>_COOKIE</a> | <a href=#_SESSION>_SESSION</a> | <a href=#_REQUEST>_REQUEST</a> | <a href=#_ENV>_ENV</a></center>
+<hr>
+<b><a name=GLOBALS>GLOBALS</a>:</b>
+<li> $GLOBALS[GLOBALS] = <a href=#GLOBALS>Array</a>
+<li> $GLOBALS[_POST] = <a href=#_POST>Array</a>
+<li> $GLOBALS[_GET] = <a href=#_GET>Array</a>
+<li> $GLOBALS[_COOKIE] = <a href=#_COOKIE>Array</a>
+<li> $GLOBALS[_FILES] = <a href=#_FILES>Array</a>
+<li> $GLOBALS[_SERVER] = <a href=#_SERVER>Array</a>
+<li> $GLOBALS[title] = Array<li> $GLOBALS[section] = <li> $GLOBALS[number] = Array<li> $GLOBALS[url] = Array<li> $GLOBALS[count] = 36<li> $GLOBALS[i] = 36<li> $GLOBALS[REDIRECTSTATUS] = 404<li> $GLOBALS[superglobals] = Array<li> $GLOBALS[env] = GLOBALS<li> $GLOBALS[nav] = Array<li> $GLOBALS[nav_list] = <a href=#GLOBALS>GLOBALS</a> | <a href=#_SERVER>_SERVER</a> | <a href=#_GET>_GET</a> | <a href=#_POST>_POST</a> | <a href=#_FILES>_FILES</a> | <a href=#_COOKIE>_COOKIE</a> | <a href=#_SESSION>_SESSION</a> | <a href=#_REQUEST>_REQUEST</a> | <a href=#_ENV>_ENV</a><li> $GLOBALS[val] = <a href=#GLOBALS>GLOBALS</a> | <a href=#_SERVER>_SERVER</a> | <a href=#_GET>_GET</a> | <a href=#_POST>_POST</a> | <a href=#_FILES>_FILES</a> | <a href=#_COOKIE>_COOKIE</a> | <a href=#_SESSION>_SESSION</a> | <a href=#_REQUEST>_REQUEST</a> | <a href=#_ENV>_ENV</a><li> $GLOBALS[key] = val<hr>
+<b><a name=_SERVER>_SERVER</a>:</b>
+<li> $_SERVER[REDIRECT_REQUEST_METHOD] = GET<li> $_SERVER[REDIRECT_STATUS] = 404<li> $_SERVER[HTTP_USER_AGENT] = curl/7.36.0<li> $_SERVER[HTTP_HOST] = algs4.cs.princeton.edu<li> $_SERVER[HTTP_ACCEPT] = */*<li> $_SERVER[PATH] = /sbin:/usr/sbin:/bin:/usr/bin<li> $_SERVER[SERVER_SIGNATURE] = <address>Apache/2.2.15 (Red Hat) Server at algs4.cs.princeton.edu Port 80</address>
+<li> $_SERVER[SERVER_SOFTWARE] = Apache/2.2.15 (Red Hat)<li> $_SERVER[SERVER_NAME] = algs4.cs.princeton.edu<li> $_SERVER[SERVER_ADDR] = 128.112.136.74<li> $_SERVER[SERVER_PORT] = 80<li> $_SERVER[REMOTE_ADDR] = 95.26.107.123<li> $_SERVER[DOCUMENT_ROOT] = /n/fs/algs4/www<li> $_SERVER[SERVER_ADMIN] = rs@CS.Princeton.EDU<li> $_SERVER[SCRIPT_FILENAME] = /n/fs/algs4/www/err/index.php<li> $_SERVER[REMOTE_PORT] = 55487<li> $_SERVER[REDIRECT_URL] = /43mst/PrimMST.javapwd<li> $_SERVER[GATEWAY_INTERFACE] = CGI/1.1<li> $_SERVER[SERVER_PROTOCOL] = HTTP/1.1<li> $_SERVER[REQUEST_METHOD] = GET<li> $_SERVER[QUERY_STRING] = <li> $_SERVER[REQUEST_URI] = /43mst/PrimMST.javapwd<li> $_SERVER[SCRIPT_NAME] = /err/index.php<li> $_SERVER[PHP_SELF] = /err/index.php<li> $_SERVER[REQUEST_TIME] = 1404857611<hr>
+<b><a name=_GET>_GET</a>:</b>
+<hr>
+<b><a name=_POST>_POST</a>:</b>
+<hr>
+<b><a name=_FILES>_FILES</a>:</b>
+<hr>
+<b><a name=_COOKIE>_COOKIE</a>:</b>
+<hr>
+<b><a name=_SESSION>_SESSION</a>:</b>
+<hr>
+<b><a name=_REQUEST>_REQUEST</a>:</b>
+<hr>
+<b><a name=_ENV>_ENV</a>:</b>
+-->
+
+
+
+
+<br><br>
+<p class = footer>
+<em>Last modified on September 27, 2013.</em><br><br>
+Copyright &copy; 2002&ndash;2014
+<a href = "http://www.cs.princeton.edu/~rs" class = footer>Robert Sedgewick</a>
+and
+<a href = "http://www.cs.princeton.edu/~wayne" class = footer>Kevin Wayne</a>.
+All rights reserved.
+</div>
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10811519-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+
+</html>
+
+ 
+
+
+
+
+<!--
+<hr>
+<center><a href=#GLOBALS>GLOBALS</a> | <a href=#_SERVER>_SERVER</a> | <a href=#_GET>_GET</a> | <a href=#_POST>_POST</a> | <a href=#_FILES>_FILES</a> | <a href=#_COOKIE>_COOKIE</a> | <a href=#_SESSION>_SESSION</a> | <a href=#_REQUEST>_REQUEST</a> | <a href=#_ENV>_ENV</a> | <a href=#GLOBALS>GLOBALS</a> | <a href=#_SERVER>_SERVER</a> | <a href=#_GET>_GET</a> | <a href=#_POST>_POST</a> | <a href=#_FILES>_FILES</a> | <a href=#_COOKIE>_COOKIE</a> | <a href=#_SESSION>_SESSION</a> | <a href=#_REQUEST>_REQUEST</a> | <a href=#_ENV>_ENV</a></center>
+<hr>
+<b><a name=GLOBALS>GLOBALS</a>:</b>
+<li> $GLOBALS[_SESSION] = <li> $GLOBALS[_REQUEST] = <li> $GLOBALS[_ENV] = <li> $GLOBALS[filename] = index.html<li> $GLOBALS[date] = 07/08/14 18:13<li> $GLOBALS[REMOTEADDR] = 95.26.107.123<li> $GLOBALS[REMOTEHOST] = 95-26-107-123.broadband.corbina.ru<li> $GLOBALS[HTTPREFERER] = <li> $GLOBALS[REQUESTURI] = /43mst/PrimMST.javapwd<li> $GLOBALS[fp] = Resource id #6<hr>
+<b><a name=_SERVER>_SERVER</a>:</b>
+<hr>
+<b><a name=_GET>_GET</a>:</b>
+<hr>
+<b><a name=_POST>_POST</a>:</b>
+<hr>
+<b><a name=_FILES>_FILES</a>:</b>
+<hr>
+<b><a name=_COOKIE>_COOKIE</a>:</b>
+<hr>
+<b><a name=_SESSION>_SESSION</a>:</b>
+<hr>
+<b><a name=_REQUEST>_REQUEST</a>:</b>
+<hr>
+<b><a name=_ENV>_ENV</a>:</b>
+-->
